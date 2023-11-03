@@ -1,0 +1,23 @@
+.PC{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(228, 187, 187);
+    border-style: double ;
+    border-color: black;
+    padding: 10px;
+}
+.T {
+    font-size: 20px;
+    color: rgb(0, 123, 255);
+ }
+.icon1{
+    margin-right: 30%; 
+}
+.icon2{
+    margin-right: 25%;
+}
+.icon3{
+    margin-right: 0%;
+}
